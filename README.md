@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @radhiarap
+# Responsive-resume
 
-<!---
-radhiarap/radhiarap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Sponsor me at-least 1$ for more open source projects
+> https://www.patreon.com/imuhammadessa
+
+# My Resume thumbnail:
+
+![Resume](assets/img/Resume.png)
+# radhiarap.github.io
